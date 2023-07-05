@@ -27,7 +27,9 @@ Options:
                         scan thread_count
 ```
 
-# 使用案例
+使用案例：Python domins.py -f C:\Users\admin\Desktop\n.txt
 
-python domins.py -f example.com
+![7c8537f09f7439e6e5476319b515169](https://github.com/github8669/DomainBrute/assets/22950238/ff938be5-8ecf-4c22-8dd6-e46462861ccb)
+
+
 
