@@ -29,6 +29,9 @@ Options:
 
 使用案例：Python domins.py -f C:\Users\admin\Desktop\n.txt
 
+![image](https://github.com/github8669/DomainBrute/assets/22950238/ea445e15-9115-43ab-925d-c8ec0a606632)
+
+
 ![7c8537f09f7439e6e5476319b515169](https://github.com/github8669/DomainBrute/assets/22950238/ff938be5-8ecf-4c22-8dd6-e46462861ccb)
 
 
